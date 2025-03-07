@@ -11,6 +11,6 @@ to add a line break.
 
 <table><tr><td>Here is
   one  
-  cell</td>td>Her<br>e is another</td></tr></table>
+  cell</td><td>Her<br>e is another</td></tr></table>
 
 okay we are at [the end](http://www.amazon.com)  
